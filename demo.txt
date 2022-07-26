@@ -88,3 +88,24 @@ creating connection between local reposetory and remote reposetory
 
 $ git remote add origin https://github.com/sheetalshree2704/test_demo.git
 ====================================================================================
+
+
+
+
+
+
+====================================================================================
+
+Push command for pushing the changes made -  git push origin master
+
+
+Dell@DESKTOP-4EOOMSS MINGW64 ~/test (master)
+$ git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 956 bytes | 478.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/sheetalshree2704/test_demo.git
+   0af8d6f..ef82d41  master -> master
